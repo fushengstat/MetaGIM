@@ -12,7 +12,7 @@ devtools::install_github("fushengstat/MetaGIM")
 
 # Usage
 This is a good start point for using ***MetaGIM*** package.
-```{r,include = TRUE}
+```{r,include = FALSE}
 data(data, package="MetaGIM")
 
 # Random assignment into 10 batches
