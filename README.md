@@ -15,7 +15,7 @@ Please see the [MetaGIM user manual](https://github.com/fushengstat/MetaGIM/blob
 
 
 # Information
-Author: Han Zhang, Kai Yu, Sheng Fu \\
+Author: Han Zhang, Kai Yu, Sheng Fu \
 Maintainer: Bill Wheeler <wheelerb@imsweb.com>
 
 
