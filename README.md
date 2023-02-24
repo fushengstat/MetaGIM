@@ -14,5 +14,13 @@ devtools::install_github("fushengstat/MetaGIM")
 Please see the [MetaGIM user manual](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf).
 
 
+# Information
+Author: Han Zhang, Kai Yu, Sheng Fu
+Maintainer: Bill Wheeler <wheelerb@imsweb.com>
+
+
+
 # References
 Fu S, Deng L, Zhang H, Wheeler W, Qin J, Yu, K (2023). Integrative analysis of individual-level data and high-dimensional summary statistics. Manuscript. 
+
+
