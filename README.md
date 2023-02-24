@@ -10,8 +10,8 @@ library(devtools)
 devtools::install_github("fushengstat/MetaGIM")
 ```
 
-# Example
-Please see the MetaGIM user manual[a link](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf).
+# Usage
+Please see the [MetaGIM user manual](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf).
 
 
 # References
