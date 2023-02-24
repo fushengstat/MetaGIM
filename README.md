@@ -5,8 +5,9 @@ MetaGIM is a novel method that integrates individual-level data and high-dimensi
 
 # Installation
 MetaGIM PACKAGE can be installed via Github. To install the latest version of MetaGIM package via Github, run following commands in R:
-```library(devtools)
-devtools::install_github("yaowuliu/ACAT")
+```{r, include = FALSE}
+library(devtools)
+devtools::install_github("fushengstat/MetaGIM")
 ```
 
 # Example
