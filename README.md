@@ -4,8 +4,8 @@
 MetaGIM is a novel method that integrates individual-level data and high-dimensional summary statistics using a divide-and-conquer scheme and meta-like procedure.
 
 # Installation
-To install the ‘MetaGIM’ package, the user should download the ZIP file and install it as follows,\
-install.packages("Your directory/MetaGIM_1.0.0.zip", repos = NULL, type = "win.binary")
+MetaGIM PACKAGE can be installed via Github. To install the latest version of MetaGIM package via Github, run following commands in R:
+
 
 # Example
 The user can run the script "test.R" as an example to check the MetaGIM package.
