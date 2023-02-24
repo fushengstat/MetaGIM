@@ -12,17 +12,20 @@ devtools::install_github("fushengstat/MetaGIM")
 
 # Usage
 This is a good start point for using ***MetaGIM*** package.
-```{r}
-  data(data, package="MetaGIM")
+```{r,include = TRUE}
+data(data, package="MetaGIM")
 
-  # Random assignment into 10 batches
-  set.seed(0)
-  M      <- ncol(data)-2
-  bk     <- 10
-  M0     <- sample(1:M)
-  group1 <- split(M0, ceiling((1:M)/bk))
+# Random assignment into 10 batches
+set.seed(0)
+M      <- ncol(data)-2
+bk     <- 10
+M0     <- sample(1:M)
+group <- split(M0, ceiling((1:M)/bk))
 
-  metagim(models, group1, nsample, y~score, "case-control", data)
+# models is the collection of all smmmary data
+# group is a batche assignment
+# nsample is the sample sizes of case and controls
+metagim(models, group, nsample, y~score, "case-control", data)
 ```
 
 Please see the [MetaGIM user manual](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf). 
