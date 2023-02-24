@@ -10,6 +10,8 @@ install.packages("Your directory/MetaGIM_1.0.0.zip", repos = NULL, type = "win.b
 # Example
 The user can run the script "test.R" as an example to check the MetaGIM package.
 
+Please see the ACAT user manual.
+
 
 # References
 Fu S, Deng L, Zhang H, Wheeler W, Qin J, Yu, K (2023). Integrative analysis of individual-level data and high-dimensional summary statistics. Manuscript. 
