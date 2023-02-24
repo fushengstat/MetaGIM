@@ -11,7 +11,7 @@ devtools::install_github("fushengstat/MetaGIM")
 ```
 
 # Example
-Please see the MetaGIM user manual.
+Please see the MetaGIM user manual[a link](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf).
 
 
 # References
