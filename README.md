@@ -17,9 +17,9 @@ data(data, package="MetaGIM")
 
 # Random assignment into 10 batches
 set.seed(0)
-M      <- ncol(data)-2  # M is the number of markers
-bk     <- 10  # bk is the bathc size of each block
-group <- split(sample(1:M), ceiling((1:M)/bk))  # group is the batch assignment of M markers
+M      <- ncol(data)-2                             # M is the number of markers
+bk     <- 10                                       # bk is the bathc size of each block
+group <- split(sample(1:M), ceiling((1:M)/bk))     # group is the batch assignment of M markers
 
 # models is the collection of all smmmary data
 # group is a batche assignment
