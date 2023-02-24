@@ -11,9 +11,7 @@ devtools::install_github("fushengstat/MetaGIM")
 ```
 
 # Example
-The user can run the script "test.R" as an example to check the MetaGIM package.
-
-Please see the ACAT user manual.
+Please see the MetaGIM user manual.
 
 
 # References
