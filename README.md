@@ -13,11 +13,11 @@ devtools::install_github("fushengstat/MetaGIM")
 # Usage
 Please see the [MetaGIM user manual](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf).
 
-
+<!---
 # Information
 Author: Han Zhang, Kai Yu, Sheng Fu \
 Maintainer: Bill Wheeler <wheelerb@imsweb.com>
-
+--->
 
 
 # References
