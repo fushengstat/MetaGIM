@@ -1,11 +1,20 @@
-# MetaGIM: A procedure to incorporate individual-level data and high-dimensional summary statistics.
+# MetaGIM: A procedure to incorporate individual-level data and high-dimensional summary statistics 
 
 # Overview
 MetaGIM is a novel method that integrates individual-level data and high-dimensional summary statistics using a divide-and-conquer scheme and meta-like procedure.
 
 # Installation
 MetaGIM PACKAGE can be installed via Github. To install the latest version of MetaGIM package via Github, run following commands in R:
-
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  eval = FALSE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+library(knitr)
+```
 
 # Example
 The user can run the script "test.R" as an example to check the MetaGIM package.
