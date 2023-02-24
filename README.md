@@ -11,7 +11,11 @@ devtools::install_github("fushengstat/MetaGIM")
 ```
 
 # Usage
-Please see the [MetaGIM user manual](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf).
+This is a good start point for using \texttt{MetaGIM} package.
+
+
+Please see the [MetaGIM user manual](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf). 
+
 
 <!---
 # Information
