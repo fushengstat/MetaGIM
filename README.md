@@ -11,7 +11,7 @@ devtools::install_github("fushengstat/MetaGIM")
 ```
 
 # Usage
-This is a good start point for using \texttt{MetaGIM} package.
+This is a good start point for using ```MetaGIM''' package.
 
 
 Please see the [MetaGIM user manual](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf). 
