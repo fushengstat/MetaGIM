@@ -1,8 +1,0 @@
-MetaGIM-package         Integrative Analysis of Individual-Level Data
-                        and High-Dimensional Summary Statistics
-dat                     Data for example in 'gim'
-data                    Data for examples
-gim                     Fitting Generalized Integration Models
-gim_add                 gim_add
-metagim                 MetaGIM
-metagim_rho             metagim_rho
