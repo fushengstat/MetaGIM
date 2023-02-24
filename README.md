@@ -1,17 +1,17 @@
-r# MetaGIM: A procedure to incorporate individual-level data and high-dimensional summary statistics 
+# MetaGIM: A procedure to incorporate individual-level data and high-dimensional summary statistics 
 
 # Overview
-***MetaGIM*** is a novel method that integrates individual-level data and high-dimensional summary statistics using a divide-and-conquer scheme and meta-like procedure.
+**MetaGIM** is a novel method that integrates individual-level data and high-dimensional summary statistics using a divide-and-conquer scheme and meta-like procedure.
 
 # Installation
-***MetaGIM*** PACKAGE can be installed via Github. To install the latest version of MetaGIM package via Github, run following commands in R:
+**MetaGIM** PACKAGE can be installed via Github. To install the latest version of MetaGIM package via Github, run following commands in R:
 ```{r, include = FALSE}
 library(devtools)
 devtools::install_github("fushengstat/MetaGIM")
 ```
 
 # Usage
-This is a good start point for using ***MetaGIM*** package.
+This is a good start point for using **MetaGIM** package.
 ```{r,include = FALSE}
 data(data, package="MetaGIM")
 
@@ -28,7 +28,7 @@ group <- split(M0, ceiling((1:M)/bk))
 metagim(models, group, nsample, y~score, "case-control", data)
 ```
 
-Please see the [MetaGIM user manual](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf). 
+Please see the [MetaGIM user manual](https://github.com/fushengstat/MetaGIM/blob/main/doc/MetaGIM-manual.pdf) for more details. 
  
 
 <!---
