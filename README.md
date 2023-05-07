@@ -38,7 +38,7 @@ Maintainer: Bill Wheeler <wheelerb@imsweb.com>
 
 
 # References
-Fu S., Deng L., Zhang H., Wheeler W., Qin J., Yu, K. (2023). Integrative analysis of individual-level data and high-dimensional summary statistics. Bioinformatics, [Online](https://doi.org/10.1093/bioinformatics/btad156). \
+Fu, S., Deng, L., Zhang, H., Qin, J., & Yu, K. (2023). <a href="https://doi.org/10.1093/bioinformatics/btad156" target="_blank">Integrative analysis of individual-level data and high-dimensional summary statistics</a>. Bioinformatics, 39(4), btad156. \
 Zhang, H., Deng, L., Schiffman, M., Qin, J., & Yu, K. (2020). Generalized integration model for improved statistical inference by leveraging external summary data. Biometrika, 107(3), 689-703. \
 Zhang, H., Deng, L., Wheeler, W., Qin, J., & Yu, K. (2022). Integrative analysis of multiple case‐control studies. Biometrics, 78(3), 1080-1091.
 
