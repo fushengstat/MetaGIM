@@ -4,7 +4,7 @@ Title: Integrative Analysis of Individual-Level Data and
         High-Dimensional Summary Statistics
 Version: 1.0.0
 Date: 2022-12-07
-Author: Han Zhang, Kai Yu, Sheng Fu
+Author: Sheng Fu, Han Zhang, Kai Yu
 Maintainer: Bill Wheeler <wheelerb@imsweb.com>
 Depends: R (>= 3.5.0)
 Imports: numDeriv
